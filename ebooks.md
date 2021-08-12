@@ -7,7 +7,7 @@ description: >-
 
 O livro será dividido nos tópicos:
 
-* [x] R_ando](https://gustavohen1.gitbook.io/mourao/)
+* [x] [R_ando](https://gustavohen1.gitbook.io/mourao/)
   * [x] Estatistica
   * [ ] Inteligência artíficial
   * [ ] Florestais
