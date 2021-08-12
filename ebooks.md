@@ -30,7 +30,7 @@ O livro será dividido nos tópicos:
 Com o tempo, irei acrescentando e melhorando. Vale novamente ressaltar: 
 
 {% hint style="danger" %}
-**ESTES LIVROSSÃO APENAS PARA CONSULTA PESSOAL. NÃO ME RESPONSABILIZO POR QUAISQUER INFORMAÇÕES ERRADAS OU CONFLITANTES**
+**ESTES LIVROS SÃO APENAS PARA CONSULTA PESSOAL. NÃO ME RESPONSABILIZO POR QUAISQUER INFORMAÇÕES ERRADAS OU CONFLITANTES**
 {% endhint %}
 
 Esclarecido isto, tenha uma boa leitura. Espero que ele lhe seja util.
