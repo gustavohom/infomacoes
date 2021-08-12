@@ -27,12 +27,6 @@ O livro será dividido nos tópicos:
   * [ ] Iniciados
   * [ ] Etc
 
-## Slides
-
-## Sites
-
-## Pacotes
-
 Com o tempo, irei acrescentando e melhorando. Vale novamente ressaltar: 
 
 {% hint style="danger" %}
