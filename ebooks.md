@@ -1,9 +1,9 @@
 ---
 description: >-
-  Lista de ebooks criados por Gustavo Mourão, bem como projetos de criação de novos ebooks 
+  Lista com links de documentos criados por Gustavo Mourão, bem como projetos de criação de novos ebooks 
 ---
 
-# Ebooks
+## Ebooks
 
 O livro será dividido nos tópicos:
 
